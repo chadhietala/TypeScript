@@ -5146,7 +5146,7 @@
         "category": "Error",
         "code": 6258
     },
-      "Found 1 error in {1}": {
+    "Found 1 error in {1}": {
         "category": "Message",
         "code": 6259
     },
@@ -6028,9 +6028,9 @@
         "category": "Message",
         "code": 6930
     },
-    "List of file name suffixes to search when resolving a module." : {
-      "category": "Error",
-      "code": 6931
+    "List of file name suffixes to search when resolving a module.": {
+        "category": "Error",
+        "code": 6931
     },
 
     "Variable '{0}' implicitly has an '{1}' type.": {
@@ -7368,7 +7368,6 @@
         "category": "Message",
         "code": 95175
     },
-
     "No value exists in scope for the shorthand property '{0}'. Either declare one or provide an initializer.": {
         "category": "Error",
         "code": 18004
@@ -7524,5 +7523,13 @@
     "The value '{0}' cannot be used here.": {
         "category": "Error",
         "code": 18050
+    },
+    "Convert @typedef to type": {
+        "category": "Message",
+        "code": 18051
+    },
+    "Convert all @typedefs to types": {
+        "category": "Message",
+        "code": 18051
     }
 }
